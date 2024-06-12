@@ -5,7 +5,7 @@ Research in Classics, Summer 2024.
 
 - [Julia Tutorial](https://juliaacademy.com/courses/)
 - [Pluto Notebooks](https://plutojl.org)
-- [Tutorial from Neel Smith](https://github.com/neelsmith/why_we_code)_
+- [Tutorial from Neel Smith](https://github.com/neelsmith/why_we_code)
 
 
 ## Helpful Links (Culture)
