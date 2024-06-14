@@ -16,3 +16,8 @@ Research in Classics, Summer 2024.
 - [Mt. Pelion](https://en.wikipedia.org/wiki/Pelion)
 - [The Homer Multitext Julia Package](https://github.com/homermultitext/HmtArchive.jl/tree/main?tab=readme-ov-file)
 
+## Extra
+
+- [Mt. Pelion](https://en.wikipedia.org/wiki/Pelion)
+- [Achaea](https://en.wikipedia.org/wiki/Achaea)
+- [Rhodes](https://en.wikipedia.org/wiki/Rhodes)
