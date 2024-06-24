@@ -10,6 +10,8 @@ Research in Classics, Summer 2024.
 - [HTML & CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [CSS Zen Garden](https://csszengarden.com)
 - [Chat GPT](https://chatgpt.com)
+- [SophoKeys Greek keyboard](https://www.dropbox.com/scl/fi/n2acqdmk5ty5jrd0q6yz7/SophoKeys14.dmg?rlkey=4i4f5834pp9vnyb2r3y7q595y&dl=0)
+- [Beta Code Guide](https://stephanus.tlg.uci.edu/encoding/BCM.pdf)
 
 
 ## Helpful Links (Culture)
