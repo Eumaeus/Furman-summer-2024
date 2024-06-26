@@ -12,6 +12,7 @@ Research in Classics, Summer 2024.
 - [Chat GPT](https://chatgpt.com)
 - [SophoKeys Greek keyboard](https://www.dropbox.com/scl/fi/n2acqdmk5ty5jrd0q6yz7/SophoKeys14.dmg?rlkey=4i4f5834pp9vnyb2r3y7q595y&dl=0)
 - [Beta Code Guide](https://stephanus.tlg.uci.edu/encoding/BCM.pdf)
+- [Regular Expressions Tutorial](https://regextutorial.org)
 
 
 ## Helpful Links (Culture)
