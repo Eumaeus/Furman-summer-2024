@@ -3,7 +3,7 @@ Research in Classics, Summer 2024.
 
 ## Current Assignment
 
-…
+Experiment using the `notebook.jl` Pluto notebook for working with CTS URNs.
 
 ## Helpful Links (Computering)
 
