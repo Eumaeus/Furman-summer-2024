@@ -13,6 +13,9 @@ Research in Classics, Summer 2024.
 - [SophoKeys Greek keyboard](https://www.dropbox.com/scl/fi/n2acqdmk5ty5jrd0q6yz7/SophoKeys14.dmg?rlkey=4i4f5834pp9vnyb2r3y7q595y&dl=0)
 - [Beta Code Guide](https://stephanus.tlg.uci.edu/encoding/BCM.pdf)
 - [Regular Expressions Tutorial](https://regextutorial.org)
+- [A helpful overview of working with the CITE Architecture](https://neelsmith.github.io/cite-write/narrative/)
+- [Working with CTS-URNs in Julia](https://neelsmith.github.io/cite-write/code/notebooks/cts-urns/)
+- [**Master List of Libraries**](https://neelsmith.github.io/cite-write/code/docstrings/)
 
 
 ## Helpful Links (Culture)
