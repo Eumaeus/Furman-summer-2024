@@ -1,6 +1,10 @@
 # Furman Summer, 2024
 Research in Classics, Summer 2024.
 
+## Current Assignment
+
+…
+
 ## Helpful Links (Computering)
 
 - [Julia Tutorial](https://juliaacademy.com/courses/)
