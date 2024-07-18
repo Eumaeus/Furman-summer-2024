@@ -23,6 +23,7 @@ Experiment using the `notebook.jl` Pluto notebook for working with CTS URNs.
 - [**Using the HMT Archive**](https://neelsmith.quarto.pub/hmtarchive/)
 - [Julia Documentation](https://docs.julialang.org/en/v1/)
 - [**CTS URNs**](https://neelsmith.github.io/cite-write/code/notebooks/cts-urns/)
+- [**CTS URN API**](https://cite-architecture.github.io/CitableText.jl/stable/apis/)
 
 ## Helpful Links (Culture)
 
