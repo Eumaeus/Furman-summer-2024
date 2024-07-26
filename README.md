@@ -25,7 +25,7 @@ Experiment using the `notebook.jl` Pluto notebook for working with CTS URNs.
 - [**CTS URNs**](https://neelsmith.github.io/cite-write/code/notebooks/cts-urns/)
 - [**CTS URN API**](https://cite-architecture.github.io/CitableText.jl/stable/apis/)
 - [Scholia #1 Citations to Scholia](https://neelsmith.quarto.pub/hmtarchive/guides/scholia-utils.html)
-- [Scholia #2] Getting Scholia for *Iliad* lines](https://neelsmith.quarto.pub/hmtarchive/guides/scholia.html)
+- [Scholia #2 Getting Scholia for *Iliad* lines](https://neelsmith.quarto.pub/hmtarchive/guides/scholia.html)
 
 ## Helpful Links (Culture)
 
