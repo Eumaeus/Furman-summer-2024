@@ -21,6 +21,11 @@ Experiment using the `notebook.jl` Pluto notebook for working with CTS URNs.
 - [Working with CTS-URNs in Julia](https://neelsmith.github.io/cite-write/code/notebooks/cts-urns/)
 - [**Master List of Libraries**](https://neelsmith.github.io/cite-write/code/docstrings/)
 - [**Using the HMT Archive**](https://neelsmith.quarto.pub/hmtarchive/)
+- [Julia Documentation](https://docs.julialang.org/en/v1/)
+- [**CTS URNs**](https://neelsmith.github.io/cite-write/code/notebooks/cts-urns/)
+- [**CTS URN API**](https://cite-architecture.github.io/CitableText.jl/stable/apis/)
+- [Scholia #1 Citations to Scholia](https://neelsmith.quarto.pub/hmtarchive/guides/scholia-utils.html)
+- [Scholia #2 Getting Scholia for *Iliad* lines](https://neelsmith.quarto.pub/hmtarchive/guides/scholia.html)
 
 ## Helpful Links (Culture)
 
