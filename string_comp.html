@@ -1,0 +1,25 @@
+<html>
+
+    <head>
+        <style>
+            span.nDiff {
+                color: blue;
+            }
+            span.dDiff {
+                color: red;
+            }
+            span.normalizedLine {
+                visibility: hidden;
+            }
+            span.normalizedLine > span.nDiff {
+                color: red;
+                visibility: visible;
+            }
+        </style>
+
+    </head>
+
+<p><span class = "dDiff">dog</span>s and <span class = "dDiff">cat</span>s</p>
+<p><span class = "normalizedLine"><span class = "nDiff">cat</span>s and <span class = "nDiff">dog</span>s</span></p>
+
+</html>
