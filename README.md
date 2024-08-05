@@ -1,7 +1,7 @@
 # Furman Summer, 2024
 Research in Classics, Summer 2024.
 
-*Homeri **Ilias* cum Scholia Vetera.*
+*Homeri **Ilias** cum Scholia Vetera.*
 
 ## Current Assignment
 
